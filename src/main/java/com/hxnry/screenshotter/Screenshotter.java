@@ -1,5 +1,7 @@
 package com.hxnry.screenshotter;
 
+import com.hxnry.screenshotter.ui.ScreenshotterFrame;
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.ByteArrayOutputStream;

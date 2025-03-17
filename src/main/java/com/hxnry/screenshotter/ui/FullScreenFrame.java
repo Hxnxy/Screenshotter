@@ -1,4 +1,6 @@
-package com.hxnry.screenshotter;
+package com.hxnry.screenshotter.ui;
+
+import com.hxnry.screenshotter.Screenshotter;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

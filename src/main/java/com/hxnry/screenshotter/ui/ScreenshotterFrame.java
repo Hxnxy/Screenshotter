@@ -1,5 +1,6 @@
-package com.hxnry.screenshotter;
+package com.hxnry.screenshotter.ui;
 
+import com.hxnry.screenshotter.Screenshotter;
 import com.hxnry.screenshotter.ui.lnf.CustomFrame;
 
 import javax.imageio.ImageIO;
