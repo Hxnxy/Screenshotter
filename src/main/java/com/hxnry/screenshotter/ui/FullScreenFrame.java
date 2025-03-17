@@ -100,7 +100,6 @@ public class FullScreenFrame extends JFrame {
 		String homeDirectory = System.getProperty("screenshotter.home");
 		File f = new File((homeDirectory + "Screenshotter-" + formattedTime + ".png").replaceAll(" ", "-"));
 		if (f.exists()) {
-			f.createNewFile();
 			String name = f.getName();
 			int indexOfPng = f.getName().indexOf(".png");
 			String extractedName = homeDirectory + name.substring(0, indexOfPng);
