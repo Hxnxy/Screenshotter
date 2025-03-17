@@ -6,4 +6,4 @@ A simple .png screenshotter written in Java.
 
 Saves to your operating system's user.home + /Screenshotter directory.
 
-![3noRPrP2Y4](https://github.com/user-attachments/assets/28299175-527f-4984-8716-77ce977d34e5)
+![HHulqytXJT](https://github.com/user-attachments/assets/520298e1-37c8-4386-8c99-479477f15987)
