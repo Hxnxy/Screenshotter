@@ -5,3 +5,5 @@ A simple .png screenshotter written in Java.
 <img width="158" alt="display" src="https://github.com/user-attachments/assets/3dcff7af-55fd-42fc-8def-f5b467b3112f" />
 
 Saves to your operating system's user.home + /Screenshotter directory.
+
+![3noRPrP2Y4](https://github.com/user-attachments/assets/28299175-527f-4984-8716-77ce977d34e5)
